@@ -12,11 +12,11 @@ running the following: python vpnlist.py
 
 The api uses the following syntax.
 
-For listing the VPNs by distance: localhost:5000/?lat=&ltlat&gt&lng=&ltlng&gt
+For listing the VPNs by distance: localhost:5000/?lat=&lt;lat&gt;&lng=&lt;lng&gt;
 
 For adding new VPNs or updating an existing one with the same name: 
-localhost:5000/addvpn?name=&ltname&gt&lng=&ltlng&gt&lat=&ltlat&gt
+localhost:5000/addvpn?name=&lt;name&gt;&lng=&lt;lng&gt;&lat=&lt;lat&gt;
 
-For deleting VPNs localhost:5000/delvpn?name=&ltname&gt
+For deleting VPNs localhost:5000/delvpn?name=&lt;name&gt;
 
 An error is returned if you don't enter all the necessary data.
