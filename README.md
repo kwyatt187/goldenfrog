@@ -1,3 +1,5 @@
+First pull down the code with 'git clone https://github.com/kwyatt187/goldenfrog.git; cd goldenfrog'
+
 To setup the environment run 'source bin/activate'
 
 ************* Problem 1 ***************
@@ -10,7 +12,7 @@ dlrOw OllEh
 ************* Problem 2 ***************
 
 The code for problem 2 is vpnlist.py and vpnlist_test.py. The app listens on port 5000 after 
-running the following: python vpnlist.py
+running 'python vpnlist.py'
 
 vpnlist.py depends on the following packages:
 
