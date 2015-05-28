@@ -1,3 +1,5 @@
+To setup the environment run 'source bin/activate'
+
 ********** Problem 1 ***************
 
 The code for problem one is reversestring.py and reversestring_test.py. Run in the following manner:
